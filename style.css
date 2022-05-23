@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.user-list li.hide{
+    display: none;
+}
+.card-body{
+    color: black;
+}
